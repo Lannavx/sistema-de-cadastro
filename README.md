@@ -1,4 +1,4 @@
-# Sistema de Cadastro de jogos
+# Sistema de Cadastro de jogos - Treinamento Alura
 
 > Status do projeto: Em desenvolvimento 
 
