@@ -1,9 +1,2 @@
-# Sistema de Cadastro de jogos - Treinamento Alura
+Porjeto desenvolvido para o treinamento da Alura.
 
-> Status do projeto: Em desenvolvimento 
-
-Para rodar esse projeto na sua máquina, por favor digite:
-
-```
-node app.js
-```
